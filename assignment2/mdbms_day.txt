@@ -1,0 +1,8 @@
+Day,mdbms
+Sun,0
+Mon,2
+Tue,2
+Wed,4
+Thu,6
+Fri,0
+Sat,1

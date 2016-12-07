@@ -1,0 +1,8 @@
+Day,UML
+Sun,0
+Mon,17
+Tue,8
+Wed,13
+Thu,8
+Fri,0
+Sat,2

@@ -1,0 +1,8 @@
+Day,visual
+Sun,4
+Mon,1
+Tue,2
+Wed,5
+Thu,9
+Fri,8
+Sat,2

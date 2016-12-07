@@ -1,0 +1,10 @@
+install sqllite3
+go to root
+search for mozilla
+put the query and send the output to a text file
+
+cd ~/.mozilla/firefox/
+ls
+cd axcipsih.default/
+ls
+sqlite3 places.sqlite

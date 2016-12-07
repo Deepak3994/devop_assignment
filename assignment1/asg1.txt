@@ -1,0 +1,78 @@
+﻿Mkdir devops
+cd devops
+mkdir 1assg
+cd 1assg
+ps-ef > inspect
+ps - report a snapshot of the current processes.
+ps displays information about a selection of the active processes.  If
+       you want a repetitive update of the selection and the displayed
+       information
+              
+   subl inspect
+grep “firefox” inspect
+
+grep "chrome" inspect
+no output will be given as there is no process running by name chrome
+kill
+kill - send a signal to a process
+
+Syntax:<pid> [...]
+sudo kill -8340 PID//command to kill process
+PID = ‘ps-eaf | grep syncapp |greap -v grep |awk ‘{print &2}’`
+if[[“”!= “$PID”]]; Then
+echo “killing $PID”
+kill -9 $PID
+fi
+
+the above script kills the particular process using its PID.
+
+
+5)ls -R |grep .pdf$ > devops/1asg/pdffiles
+   ls -R |grep .txt$ > devops/1asg/textfiles;
+
+6)official way to instal python new module
+install pip
+pip is a tool for installing python pakages
+method1
+apt-get install python pip #installing python
+different methods to install python pakage
+use a pip tool like pip install python module(ex:pip install  django)
+method2
+download source code of the pakege
+setup.py install
+git clone from github
+
+
+7)/proc file system
+directory called proc which sis located under path under/
+ls /
+proc is a directory under this
+virtual file system contains information about the all running process and system file system
+cd /proc/
+ls > proc
+proc directory name is mentioned in number coz process id running in our system will b directly created in proc system
+top command #this will give all the process currently running in system
+
+
+opened firefox thereby a process id by name firefox would be created
+ top >/home/deepika/devops/1asg/topfiles; # here we can find the firefox process
+ kill 3218 =to kill process by name firefox
+ firefox gets closed
+
+
+
+
+
+8)
+download python2 and python 3
+default is 2.7
+python2    
+                                                                
+$ chmod +x first.py
+$cat first.py
+#!/usr/local/bin/python3.5
+import sys
+print sys.version
+
+
+ 

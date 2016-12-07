@@ -1,0 +1,1 @@
+SELECT datetime(a.visit_date/1000000,'unixepoch') AS visit_date, b.url FROM moz_historyvisits AS a JOIN moz_places AS b ON a.place_id=b.id WHERE 1 ORDER BY a.visit_date ASC;

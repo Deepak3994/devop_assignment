@@ -1,0 +1,492 @@
+enum.pdf
+enum.pdf
+xmltutorial.pdf
+back.pdf
+filesave.pdf
+forward.pdf
+hand.pdf
+home.pdf
+matplotlib.pdf
+move.pdf
+qt4_editor_options.pdf
+subplots.pdf
+zoom_to_rect.pdf
+back.pdf
+filesave.pdf
+forward.pdf
+hand.pdf
+home.pdf
+matplotlib.pdf
+move.pdf
+qt4_editor_options.pdf
+subplots.pdf
+zoom_to_rect.pdf
+back.pdf
+filesave.pdf
+forward.pdf
+hand.pdf
+home.pdf
+matplotlib.pdf
+move.pdf
+qt4_editor_options.pdf
+subplots.pdf
+zoom_to_rect.pdf
+xmltutorial.pdf
+final pdf
+complete.pdf
+Cover Page.pdf
+table.pdf
+css3-cheat-sheet.pdf
+davechild_javascript.bw.pdf
+html5-cheat-sheet.pdf
+mementopython3-english.pdf
+sql-cheat-sheet.pdf
+ApplicationForm (2).pdf
+DE00137492.pdf
+Online Test Booking System.pdf
+#1_report.pdf
+New Microsoft Word Document.pdf
+Hallticket2016_152400_23062016_001922.pdf
+Hallticket2016_155920_23062016_001749.pdf
+Priyanka.pdf
+Vidya.pdf
+Online Test Booking System piggy.pdf
+Online Test Booking System vidya.pdf
+priyanka.pdf
+vidya.pdf
+Abstract.pdf
+Introduction.pdf
+1.title page .pdf
+2.Certificate.pdf
+3.TOC.pdf
+4.abstract.pdf
+5.Acknowledgement.pdf
+6.LOF.pdf
+7.intro.pdf
+accenture_placement_papers.pdf
+cisco_placement_papers.pdf
+hcl_placement_papers.pdf
+honeywell_placement_papers.pdf
+hp_placement_papers.pdf
+ibm_placement_papers.pdf
+satyam_placement_papers.pdf
+syntel_placement_papers.pdf
+tcs_placement_papers.pdf
+wipro_placement_papers.pdf
+12395.pdf
+accenture_placement_papers.pdf
+rajesh_infosys_placement_papers.pdf
+10Things for high level  IT resume.pdf
+computer Shortcuts (QT).pdf
+Differences_C_vs._C__.pdf
+Interview Skills That Win The Job - Michael Spiropoulos.pdf
+resume_standard.pdf
+iflex1[www.PlacementPapers.net].pdf
+iflex2[www.PlacementPapers.net].pdf
+iflex1[www.PlacementPapers.net].pdf
+iflex2[www.PlacementPapers.net].pdf
+iflex1.pdf
+iflex2.pdf
+class04.4up12.pdf
+class04.4up.pdf
+501ChallengingLogicReasoning2ed.pdf
+CHSSC_Day2.pdf
+CHSSC_Day3.pdf
+Assignments_AOA_SE15.pdf
+HDD_SE15_AOA.pdf
+LabGuide_SE15_AOA.pdf
+LDD_SE15_AOA.pdf
+SLIDES01_SE15_AOA [Read-Only].pdf
+SLIDES02_SE15_AOA [Read-Only].pdf
+SLIDES03_SE15_AOA [Read-Only].pdf
+SLIDES_CaseStudy_SE15_AOA [Read-Only].pdf
+Assignments_CHSSC.pdf
+CHSSC_Day1.pdf
+CHSSC_Day2.pdf
+CHSSC_Day3.pdf
+CHSSC_Day4.pdf
+HDD_CHSSC.pdf
+LDD_CHSSC.pdf
+Assignments_ClientServer concepts.pdf
+CSC.pdf
+HDD_ClientServer concepts.pdf
+LDD_ClientServer concepts.pdf
+C++ - The Complete Reference.pdf
+English Grammar for the Utterly Confused - Laurie Rozakis.pdf
+NTC’s American Idioms Dictionary - Richard A Spears.pdf
+PCS.pdf
+PCS.pdf
+IWT_HDD.pdf
+IWT_LDD.pdf
+IWT_SLIDES01.pdf
+IWT_SLIDES02.pdf
+HDD_OOC.pdf
+LDD_OOC.pdf
+OOC_Day1.pdf
+Assignments_ProgrammingFundamentals.pdf
+HDD_PF.pdf
+LDD_PF.pdf
+PF_Day1.pdf
+PF_Day2.pdf
+PF_Day3.pdf
+PF_Day4.pdf
+PF_Day5.pdf
+PF_Day6.pdf
+PF_LabGuide.pdf
+PF-Project-CodeReviewChecklist-Ver1.0.pdf
+ProjectSpecs_PF.pdf
+Assignments_RDBMS.pdf
+HDD_RDBMS.pdf
+LDD_RDBMS.pdf
+RDBMS_Day1.pdf
+RDBMS_Day2.pdf
+RDBMS_Day3.pdf
+RDBMS_Day4.pdf
+RDBMS_Day5.pdf
+RDBMS_Day6.pdf
+RDBMS_Day7.pdf
+RDBMS_LC_LabGuide.pdf
+HDD_SDM.pdf
+LDD_SDM.pdf
+SDM_Day1.pdf
+SDM_Day2.pdf
+Assignment_UID.pdf
+HDD_UID.pdf
+LDD_UID.pdf
+UID_SE26.pdf
+50interviewqas.pdf
+Computer_Networks_Interview_Questions.pdf
+unix_commands.pdf
+UNIXICommandSummary.pdf
+UNIXIICommandSummary.pdf
+iflex1[www.PlacementPapers.net].pdf
+iflex2[www.PlacementPapers.net].pdf
+iflex1[www.PlacementPapers.net].pdf
+iflex2[www.PlacementPapers.net].pdf
+iflex1.pdf
+iflex2.pdf
+resume_standard.pdf
+50interviewqas.pdf
+Computer_Networks_Interview_Questions.pdf
+unix_commands.pdf
+UNIXICommandSummary.pdf
+UNIXIICommandSummary.pdf
+iflex1[www.PlacementPapers.net].pdf
+iflex2[www.PlacementPapers.net].pdf
+iflex1[www.PlacementPapers.net].pdf
+iflex2[www.PlacementPapers.net].pdf
+iflex1.pdf
+iflex2.pdf
+Data-Structure-Test-Paper-By-Placementpapers.net_.pdf
+TCS_TINU_14FEB2004[www.PlacementPapers.net].pdf
+9691.pdf
+Deepak - 8th Semester Marks Card.pdf
+Deepak - Graduation Certificate.pdf
+Driving Lience 2.pdf
+Driving Lience.pdf
+PAN Card - Deepak.pdf
+Passport of Deepak.pdf
+Theme One Pager in Detail new.pdf
+Weekend Exams Schedule.pdf
+alp-ch01-advanced-unix-programming-with-linux.pdf
+alp-ch02-writing-good-gnu-linux-software.pdf
+alp-ch03-processes.pdf
+alp-ch04-threads.pdf
+alp-ch05-ipc.pdf
+alp-ch06-mastering-linux.pdf
+alp-ch07-proc-filesystem.pdf
+alp-ch08-linux-system-calls.pdf
+alp-ch09-inline-asm.pdf
+alp-ch10-security.pdf
+ShellIntro.pdf
+Shell Programming.pdf
+No SQL - Subject to prepare the oral exam - resit exam.pdf
+project.pdf
+slides_d1.pdf
+slides_d2.pdf
+algorithms-in-python.pdf
+Data streams algorithms and applications.pdf
+data-structures-and-algorithm.pdf
+GroupAssignments-ProblemList.pdf
+list.pdf
+queue.pdf
+stack.pdf
+GoG-Data-Var.pdf
+GoG-Viz-Intro.pdf
+matplotlib.pdf
+numpy-ref-1.11.0.pdf
+numpy-user-1.11.0.pdf
+pandas-0.18.1.pdf
+python-nvd3o.pdf
+ArtScienceVisualizingData.pdf
+BasicPrinciplesGraphingData.pdf
+BenFry-VisualizingData.pdf
+BenShneiderman-TheEyesHaveIt-TaxonomyInfoViz.pdf
+BeyondVisualizationZoo.pdf
+BriefHistoryOfS.pdf
+Byron-Wattenberg-StackedGraphs.pdf
+ChartjunkDebateCloseExamination.pdf
+Chartjunk-VibrationsGridsDucks.pdf
+Cleveland-TheoryExpApplicationDevelopmentGraphicalMethdods.pdf
+CombiningSatelliteImageryMLPredictPoverty.pdf
+DataArt-QuickIllustratedHistoryVisualization.pdf
+DataCleaningProblemsCurrentApproaches.pdf
+DataInkAndGraphicalRedesign.pdf
+DataInTheFirstMile.pdf
+FindingPovertySatelliteImages.pdf
+Friendly-BriefHistoryDataVisualization.pdf
+Friendly-BriefHistoryDataVisualization-Readable.pdf
+GFSEvolutionFastForward.pdf
+GFS.pdf
+GrammarOfGraphics.pdf
+GraphingDataForDecisionMaking.pdf
+HandbookDataVisualization.pdf
+Heer-Shneiderman-InteractiveDynamicsVisualAnalysis.pdf
+HistoryOfClusterHeatMap.pdf
+IEEE-ScalableSystemsBigDataAnalytics.pdf
+InformationVisualization.pdf
+JeffHeerConversation.pdf
+JeffreyHeer-ResearchTopicsDataVisualization.pdf
+LifeOfJohnTukey.pdf
+MemorableVisualization-TVCG2013.pdf
+MemorableVizSupplemental-Iinfovis128.pdf
+NarrativeVisualizationTellingStoriesWithData.pdf
+PovertySatIMageOnePage.pdf
+QualitativeDataAnalysis-DrawingVerifyingConclusions.pdf
+QuantitativeDataCleaningLargeDatabases.pdf
+Shneiderman-TreeVisTreemap.pdf
+SociologyDataVisualization.pdf
+StorytellingNextStepForVisualization(Computer2013).pdf
+SupportinginvestigativeAnalysisThruInteractiveVisualization.pdf
+TenSimpleRulesBetterVisualization.pdf
+TenSimpleRulesForBetterFigures.pdf
+TourThroughVisualizationZoo.pdf
+Tufte-AestheticsAndTechnique.pdf
+Tukey-FutureOfDataAnalysis.pdf
+VisualAndInteractiveAnalytics.pdf
+VisualExplorationsOfLargeDataSets.pdf
+VisualizationMakesBigdataMeaningful.pdf
+VisualizationMilestones.pdf
+Wrangler-InteractiveVisualSpecDataXformSCripts.pdf
+TU_Wien-Verteilte_Systeme_VO_(Göschka)_-_Tannenbaum-distributed_systems_principles_and_paradigms_2nd_edition.pdf
+ftj-slidedeck.pdf
+slides_d1.pdf
+slides_d2.pdf
+transaction-processing.pdf
+PredicateLogic.pdf
+RelationalDataModel.pdf
+SetDataModel.pdf
+Silberschatz-Korth-Sudarshan_-_Database_System_Concepts__4rt_Edition.pdf
+DistributedTransactions.pdf
+DistributedDatabases.pdf
+Structure-ME-BigDataAndDataAnalytics .pdf
+Syllabus-ME-BigDataAndDataAnalytics .pdf
+BigTable.pdf
+BridgingModelParallelComputation.pdf
+CACM-MapReduceFlexibleDataProcessing.pdf
+CAP12YearsLater.pdf
+ExploringComplexNetwroks.pdf
+FlashGraphProcessingBillion-NodeGraphs.pdf
+HDFS.pdf
+IEEE-ScalableSystemsBigDataAnalytics.pdf
+MapReduce.pdf
+p56-zaharia.pdf
+Pregel-SystemLargeScaleGraphProcessing.pdf
+ResilientDistributedDatasets.pdf
+SpannerGloballyDistributedDatabase.pdf
+SparkClusterComputingWorkingSets.pdf
+SparkSQL.pdf
+ThinkLikeGraph.pdf
+ThinkLikeVertex.pdf
+ANOVA.pdf
+CC_descriptive measures.pdf
+Chi Square_Others.pdf
+Getting-Started-with-the-Rcmdr.pdf
+independent samples t test0.pdf
+independent samples t test.pdf
+Introductory_Statistics_with_R__2nd_ed.pdf
+Normal Distribution.pdf
+Paired t test_MHA.pdf
+Probability & Statistics.pdf
+Rice2007.pdf
+Rmanual_paper.pdf
+STATISTICS.pdf
+Testing of hypothesis.pdf
+abs-guide.pdf
+Bash-Beginners-Guide.pdf
+unix_tutorial.pdf
+let-us-c-yashwant-kanetkar.pdf
+mongodb_tutorial.pdf
+mysql_tutorial.pdf
+neo4j.pdf
+Cloud Big Data_eBook.pdf
+Cloud_Big Data Hadoop_Real World Project_Education.pdf
+Cloud_Big Data Hadoop_Real World Project_Insurance.pdf
+Cloud_Big Data Hadoop_Real World Project_Retail.pdf
+Cloud_Big Data Hadoop_Real World Project_Social Media.pdf
+Apache Cassandra_Case Study_Without Solution.pdf
+Apache Cassandra_Case Study_With Solution.pdf
+Apache_Cassandra_eBook_V1.0.pdf
+Lesson 5 - Lab Exercise 1 - Without solution.pdf
+Lesson 5 - Lab Exercise 1 - With solution.pdf
+Lesson 6 - Lab Exercise 2 - Without solution.pdf
+Lesson 6 - Lab Exercise 2 - With solution.pdf
+Lesson 7 - Lab Exercise 3 - Without solution.pdf
+Lesson 7 - Lab Exercise 3 - With solution.pdf
+Java Essentials_PPT_Lesson01.pdf
+Java Essentials_PPT_Lesson02.pdf
+Java Essentials_PPT_Lesson03.pdf
+MongoDB_Developers.pdf
+Apache Sparkand Scala_eBook_V1.0.pdf
+How_to_launch_Spark_using_Sandbox.pdf
+Project_Spark_SQL.pdf
+Solution_Spark_SQL.pdf
+Java_How_to_Program_9th_Edition_Paul_Deitel_Harvey_Deitel.pdf
+Java The Complete Reference Ninth Edition.pdf
+java_tutorial.pdf
+machine_learning_-_lesson_1_-_january_2016.pptx.pdf
+machine_learning_-_lesson_2.pdf
+[Manning] - The Quick. Python Book, 2nd ed. - [Ceder] (2010).pdf
+pandas_-_introduction_-_ensai_-_v2.pdf
+Python Data Analysis.pdf
+Python for Data Analysis.pdf
+python_tutorial.pdf
+Track 1 - Python for datascience - ENSAI - v2.pdf
+matplotlib.pdf
+numpy-ref-1.11.0.pdf
+numpy-user-1.11.0.pdf
+pandas-0.18.1.pdf
+python-nvd3o.pdf
+FormationR_20161001.pdf
+R-intro.pdf
+r_tutorial.pdf
+C-and-Cpp-Installation-Sheet-English.pdf
+C-and-Cpp-Instruction-Sheet-English.pdf
+PERL-Instruction-Sheet-English.pdf
+PHP-and-MySQL-Installation-Sheet-English.pdf
+PHP-and-MySQL-Instruction-Sheet-English.pdf
+PHP-String-Functions-Part-2-Assignment.pdf
+Display-Images-from-a-Directory-Assignment.pdf
+User-Login-Part-1-Assignment.pdf
+User-Login-Part-2-Assignment.pdf
+User-Login-Part-3-Assignment.pdf
+User-Password-Change-Part-2-Assignment.pdf
+User-Registration-Part-1-Assignment.pdf
+User-Registration-Part-2-Assignment.pdf
+User-Registration-Part-3-Assignment.pdf
+User-Registration-Part-4-Assignment.pdf
+User-Registration-Part-5-Assignment.pdf
+User-Registration-Part-6-Assignment.pdf
+XAMPP-in-Windows-Assignment.pdf
+XAMPP-in-Linux-Assignment.pdf
+MySQL-Part-1-Assignment.pdf
+MySQL-Part-2-Assignment.pdf
+MySQL-Part-3-Assignment.pdf
+MySQL-Part-4-Assignment.pdf
+MySQL-Part-5-Assignment.pdf
+MySQL-Part-6-Assignment.pdf
+MySQL-Part-7-Assignment.pdf
+MySQL-Part-8-Assignment.pdf
+User-Password-Change-Part-1-Assignment.pdf
+User-Password-Change-Part-3-Assignment.pdf
+Variables-in-PHP-Assignment.pdf
+If-Statement-Assignment.pdf
+Switch-Statement-Assignment.pdf
+Arithmatic-Operators-Assignment.pdf
+Comparison-Operators-Assignment.pdf
+Logical-Operators-Assignment.pdf
+Arrays-Assignment.pdf
+Multi-Dimensional-Arrays-Assignment.pdf
+Loops-While-Statement-Assignment.pdf
+Loops-Do-While-Statement-Assignment.pdf
+Loops-For-Statement-Assignment.pdf
+Loops-Foreach-Statement-Assignment.pdf
+Functions-Basic-Assignment.pdf
+Functions-Advanced-Assignment.pdf
+GET-Variable-Assignment.pdf
+POST-Variable-Assignment.pdf
+Embedding-PHP-Assignment.pdf
+Common-Way-to-Display-HTML-Assignment.pdf
+Common-Errors-Part-1-Assignment.pdf
+Common-Errors-Part-2-Assignment.pdf
+File-Upload-Part-1-Assignment.pdf
+File-Upload-Part-2-Assignment.pdf
+Cookies-Part-1-Assignment.pdf
+Cookies-Part-2-Assignment.pdf
+Sessions-Assignment.pdf
+MD5-Encryption-Assignment.pdf
+Sending-Email-Part-1-Assignment.pdf
+Sending-Email-Part-2-Assignment.pdf
+Sending-Email-Part-3-Assignment.pdf
+Simple-Visitor-Counter-Assignment.pdf
+PHP-String-Functions-Part-1-Assignment.pdf
+Wrox - Beginning Visual Basic .NET Database Programming.pdf
+bagplot.pdf
+faces.pdf
+ms.pdf
+sc.pdf
+sliderfns.pdf
+slider-make.pdf
+spin3R.pdf
+embedding.pdf
+hcl-colors.pdf
+datatable-faq.pdf
+datatable-intro.pdf
+svmdoc.pdf
+svminternals.pdf
+Formula.pdf
+json-mapping.pdf
+json-opencpu.pdf
+knitr-refcard.pdf
+lme4-extras.pdf
+lmer.pdf
+PLSvGLS.pdf
+Theory.pdf
+lmtest-intro.pdf
+mi_vignette.pdf
+chfls1.pdf
+generalsiminf.pdf
+multcomp-examples.pdf
+MVT_Rnews.pdf
+nloptr.pdf
+pbkrtest-introduction.pdf
+crq.pdf
+engelcoef.pdf
+rq-cobar.pdf
+rq-engellogplot.pdf
+rq-engelplot.pdf
+rq-eqfs.pdf
+rq-Frankplot.pdf
+rq-mammals.pdf
+rq-mcycle1.pdf
+rq.pdf
+rq-regspline.pdf
+rqss.pdf
+Commander-ru.pdf
+Empezando-con-Rcmdr-es.pdf
+Getting-Started-with-the-Rcmdr-ja.pdf
+Getting-Started-with-the-Rcmdr-ko.pdf
+Getting-Started-with-the-Rcmdr.pdf
+Rcpp-attributes.pdf
+Rcpp-extending.pdf
+Rcpp-FAQ.pdf
+Rcpp-introduction.pdf
+Rcpp-modules.pdf
+Rcpp-package.pdf
+Rcpp-quickref.pdf
+Rcpp-sugar.pdf
+Rcpp-unitTests.pdf
+RcppEigen-Introduction.pdf
+sandwich-OOP.pdf
+sandwich.pdf
+SparseM.pdf
+xlsx.pdf
+listOfTablesGallery.pdf
+margintable.pdf
+OtherPackagesGallery.pdf
+xtableGallery.pdf
+zoo-design.pdf
+zoo-faq.pdf
+zoo.pdf
+zoo-quickref.pdf
+zoo-read.pdf
