@@ -1,0 +1,49 @@
+basic comands to filter:
+-----------------------
+
+a = ['AFG','ALB','DZA','AGO','ARG','ARM']
+
+developing_countries = under_five.loc[under_five['ISO_Code'].isin(a)]
+developing_countries.reset_index(drop=True)
+
+selected_columns_4 = csv_file[['ISO_Code',
+ 'CountryName',
+ 'Year','Pneumonia ',
+ 'Diarrhoea ',
+ 'Malaria ',
+ 'AIDS ',
+ 'Measles ',
+ 'Injuries ',
+ 'Meningitis ']]
+
+one_to_59 = pd.DataFrame(selected_columns_4)
+
+Preterm_developed = developed_countries['Preterm']
+Preterm_developed = Preterm_developed.mean()
+Preterm_developed
+
+
+bar plot:
+--------
+get_ipython().magic('matplotlib nbagg')
+final_frames.plot(kind='barh', title='Variations of the diseases for under 5yrs of age', rot=0, color=(['g','y']),
+                  stacked=True, figsize=(12, 6), edgecolor='b', linewidth=1, fontsize='13', )
+plt.ylabel('<------ Cause of death ------>', fontsize=14, color='b')
+plt.xlabel('<------ Percentage aggregated values ------>', fontsize=14, color='b')
+
+
+
+pie chart:
+---------
+get_ipython().magic('matplotlib nbagg')
+developing2000 = list(final_frames2['2000'])
+final_frames2_index = list(final_frames2.index)
+colors = ['gold', 'yellowgreen', 'lightcoral', 'lightskyblue','sage', 'tan', 'plum', 'gainsboro']
+explode = (0, 0, 0, 0, 0, 0, 0, 0)  
+plt.pie(developing2000, explode=explode, labels=final_frames2_index, colors=colors,
+        autopct='%1.1f%%', shadow=True, startangle=360)
+plt.axis('equal')
+plt.title("For developing region in the year 2000", y=1.08)
+plt.show()
+
+
